@@ -7,9 +7,7 @@ world.sayHello(root)
 
 console.log("fkisoajo")
 
-// function clickDisplayAlert() {
-//   alert('クリック');
-// }
+
 
 const button = document.getElementById("but");
 // button!.addEventListener("click", () => alert("clickされました。"));
