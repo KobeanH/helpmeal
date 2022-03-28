@@ -1,3 +1,0 @@
-// function clickDisplayAlert() {
-//   alert('クリック');
-// }
