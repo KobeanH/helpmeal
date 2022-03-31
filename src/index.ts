@@ -2,7 +2,7 @@
 
 // const root = document.getElementById('root')
 // const world = new World("Hello World!");
-// world.sayHello(root)
+// world.sayHello(root)`
 
 
 const button = document.getElementById("but");
