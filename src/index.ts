@@ -82,7 +82,6 @@ button?.addEventListener(EventName.CLICK, () =>
           var origns = [latlng];
           // 到着点
           var destinations = aaa//ここにfunction callback(results, status)のresultsを格納したい
-
           console.log(origns)
 
           // DistanceMatrix の実行
